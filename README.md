@@ -2,16 +2,21 @@
 A python based project developed by a group of 4(Lab. Programming course). It provides users with smart meal planning tools by integrating a culinary API like Spoonacular, Edamam, or CalorieNinjas.
 
 ## Features
-* Choose diets and ingredient preferences
 * Get recipe suggestions
 * Create meal plans
 * Generate shopping lists
-* Get ingredient suggestions based on your diet
+* Classify Cousines
 
 ## Tools & Frameworks used
 * Phyton programming language
-* GUI w/tkinter or WebUI w/Flask/Streamlit(to choose)
-* Culinary/Nutrition APIs by RapidAPI
+* GUI w/tkinter
+* Culinary/Nutrition APIs by Spoonacular
+
+## API's used
+* Generate Meal Plan: https://spoonacular.com/food-api/docs#Generate-Meal-Plan
+* Search Recipes: https://spoonacular.com/food-api/docs#Search-Recipes-Complex
+* Generate Shopping List: https://spoonacular.com/food-api/docs#Generate-Shopping-List
+* Classify Cousines: https://spoonacular.com/food-api/docs#Classify-Cuisine
 
 ### Contacts
 * email 1: ricardo.p.guerra14@gmail.com
