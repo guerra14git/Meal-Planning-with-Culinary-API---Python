@@ -1,5 +1,5 @@
 # Meal-Planning-with-Culinary-API-Python
-A python based project developed by a group of 4(Lab. Programming course). It provides users with smart meal planning tools by integrating a culinary API like Spoonacular, Edamam, or CalorieNinjas.
+A python based project developed by a group of 4(Lab. Programming course). It provides users with smart meal planning tools by integrating a culinary API like Spoonacular
 
 ## Features
 * Get recipe suggestions
