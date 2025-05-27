@@ -12,6 +12,13 @@ A python based project developed by a group of 4(Lab. Programming course). It pr
 * GUI w/tkinter
 * Culinary/Nutrition APIs by Spoonacular
 
+## Dependencies
+* [python 3.13.3](https://www.python.org/downloads/)
+* [tkinter](https://docs.python.org/3/library/tkinter.html)
+* [pillow](https://pypi.org/project/pillow/)
+* [webbrowser](https://docs.python.org/3/library/webbrowser.html)
+* [requests](https://pypi.org/project/requests/)
+
 ## API's used
 * Generate Meal Plan: https://spoonacular.com/food-api/docs#Generate-Meal-Plan
 * Search Recipes: https://spoonacular.com/food-api/docs#Search-Recipes-Complex
