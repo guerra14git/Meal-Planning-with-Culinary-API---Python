@@ -14,6 +14,7 @@ A python based project developed by a group of 4(Lab. Programming course). It pr
 
 ## Dependencies
 * [python 3.13.3](https://www.python.org/downloads/)
+* [Forest Tkinter Theme(not in folders)](https://github.com/rdbende/Forest-ttk-theme.git)
 * [tkinter](https://docs.python.org/3/library/tkinter.html)
 * [pillow](https://pypi.org/project/pillow/)
 * [webbrowser](https://docs.python.org/3/library/webbrowser.html)
