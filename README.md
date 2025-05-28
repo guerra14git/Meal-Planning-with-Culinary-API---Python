@@ -1,7 +1,7 @@
 # Meal-Planning-with-Culinary-API-Python
-A python based project developed by a group of 4(Lab. Programming course). 
-It provides users with smart meal planning tools by integrating a culinary API like Spoonacular
-It can provide recipes by ingredients, create meal plans, generate shopping lists based on recipes saved and classify cousines by ingredientes and recipes.
+* A python based project developed by a group of 4(Lab. Programming course). 
+* It provides users with smart meal planning tools by integrating a culinary API like Spoonacular
+* It can provide recipes by ingredients, create meal plans, generate shopping lists based on recipes saved and classify cousines by ingredientes and recipes.
 
 ## Features
 * Get recipe suggestions
