@@ -23,13 +23,14 @@
 * [requests](https://pypi.org/project/requests/)
 
 ## API's used
-* Generate Meal Plan: https://spoonacular.com/food-api/docs#Generate-Meal-Plan
-* Search Recipes: https://spoonacular.com/food-api/docs#Search-Recipes-Complex
-* Generate Shopping List: https://spoonacular.com/food-api/docs#Generate-Shopping-List
-* Classify Cousines: https://spoonacular.com/food-api/docs#Classify-Cuisine
+* [Generate Meal Plan](https://spoonacular.com/food-api/docs#Generate-Meal-Plan)
+* [Search Recipes](https://spoonacular.com/food-api/docs#Search-Recipes-Complex)
+* [Get Recipe information](https://spoonacular.com/food-api/docs#Get-Recipe-Information)
+* [Classify Cousines](https://spoonacular.com/food-api/docs#Classify-Cuisine)
 
 ### Contacts
 * email 1: ricardo.p.guerra14@gmail.com
-* email 2: ****
+* email 2:  
+* email 3: parentemariana942@gmail.com
 * linkedIn: [link LinkedIn](https://www.linkedin.com/in/ricardo-guerra-3a3367349?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 * [Protocol UTAD](https://github.com/user-attachments/files/19893917/Projeto2-03.Refeicoes_v2.1-1.pdf)
