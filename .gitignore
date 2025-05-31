@@ -1,2 +1,4 @@
 FILES/
 __pycache__/
+API/__pycache__/
+GUI/__pycache__/
